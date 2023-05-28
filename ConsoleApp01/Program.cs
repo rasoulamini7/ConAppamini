@@ -10,3 +10,5 @@
    Console.ReadKey();
 
      }
+
+Console.WriteLine(c);
